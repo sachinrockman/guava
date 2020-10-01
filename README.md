@@ -76,6 +76,7 @@ flavor.
 -   Our users' guide, [Guava Explained]
 -   [A nice collection](http://www.tfnico.com/presentations/google-guava) of
     other helpful links
+-   Detail explain using links
 
 ## Links
 
